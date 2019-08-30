@@ -58,7 +58,7 @@ public class NewClue {
         if (jack.getTimesAsked() > 20) {
             System.out.println("FAILED!! You're a horrible Detective...");
         } else {
-            System.out.println("WOW! You might as well be called Batman!");
+            System.out.println("WOW! You might as well   be called Batman!");
         }
 
     }
